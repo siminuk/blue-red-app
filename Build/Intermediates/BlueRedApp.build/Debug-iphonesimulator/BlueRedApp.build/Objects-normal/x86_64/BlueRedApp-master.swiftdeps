@@ -1,0 +1,5 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "985c880f3ca4ff4cd1831f353291f05c"
+inputs: 
+- "/Users/siminuk/IOS/BlueRedApp/BlueRedApp/ViewController.swift"
+- "/Users/siminuk/IOS/BlueRedApp/BlueRedApp/AppDelegate.swift"
